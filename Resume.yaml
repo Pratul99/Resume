@@ -1,0 +1,101 @@
+apiVersion: v1
+kind: Human
+metadata:
+  name: Pratul Bhatt
+spec:
+  profile:
+    I believe in leading by motivating people through strong people management and implementing an organized strategy 
+    that delivers powerful results. Good communication skills, Problem solving skills, Fast adaptability. 
+    Generating new and unique ideas, Multi-tasking, Highly motivated result-oriented, Natural leader, 
+    Diligent worker, Good interpersonal skills.
+
+  location: 218-E, Pocket-1, Phase-1, Mayur Vihar, Delhi-110091
+  Contact:
+    phone_number: 9999664055
+    email: pratulbhatt18@gmail.com
+    linkedin: http://www.linkedin.com/in/pratul-bhatt-b3b92b14a
+      
+  skills:
+    professional_skills:
+      skill: Active Directory
+      skill: Azure
+      skill: Azure Active Directory
+      skill: ARM template
+      skill: Ansible
+      skill: Bash Scripting
+      skill: Docker
+      skill: Terraform
+      skill: Powershell
+      skill: Git & GitHub
+      skill: Linux
+      skill: Jenkins
+      skill: Exchange Administrator Center
+      skill: Microsoft 365 admin center
+      skill: Kubernetes
+      skill: Azure Automation
+      skill: Yaml
+
+    soft_skills:
+      - name: Adaptability
+        description: Being a fast learner I can adapt to circumstances quickly and deliver best results.
+      - name: Problem Solving
+        description: I am quick to identify problems, brainstorm on it and analyze answers, and implement best solutions.
+      - name: Time Management
+        description: Being a diligent worker, I prioritize my work, set goals and work hard to get the work done within the SLA.
+
+  sections:
+    -
+      name: Work Experience
+      items:
+        -
+          title: Server Administrator
+          company: Wipro Limited (Contract on IDC Technologies Solutions India Pvt. Ltd)
+          location: Greater Noida, Delhi
+          from:
+            date: 28th
+            month: June
+            year: 2021
+          description:
+            - Troubleshooting OU related issues, OU movement, DL modification, implementing security group.
+            - Reviewing workload, Managing internal groups for user’s issues.   
+            - Troubleshooting and resolution for all user’s queries related to email NDR. 
+            - Providing shared folder access, FTP request for large file transfer to client. 
+            - User ADID migration from on-prem to cloud, Enabling license, ID rollback from cloud to on-prem.
+            - Enforcing system compliance, enable/disable OWA,MAPI access as per compliance team reconcile reports.
+            - Troubleshooting SCCM windows path error while connecting Pulse VPN. Install and update SCCM.
+            - Applying/removing AD level restrictions on user ADID, password reset. 
+            - Preparing reconcile reports as per the risk management team.
+            - Build sustainable relationships and engage customers by taking the extra mile.
+
+    -
+      name: Education
+      items:
+        - title: Amity School Of Communication
+          subtitle: B.A. (Journalism and Mass Communication)
+          location: Noida, Uttar Pradesh
+          from:
+            month: August
+            year: 2017
+          to:
+            month: June
+            year: 2020
+        
+        - title: 12th/ Senior Secondary Examination 
+          subtitle:  Central Board of Secondary Education
+          location: New Delhi, Delhi
+          from:
+            month: April
+            year: 2016
+          to:
+            month: May
+            year: 2017
+
+            - title: 10th/ Secondary Examination
+          subtitle:  Central Board of Secondary Education
+          location: New Delhi, Delhi
+          from:
+            month: April
+            year: 2014
+          to:
+            month: May
+            year: 2015
