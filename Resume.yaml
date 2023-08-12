@@ -4,12 +4,16 @@ metadata:
   name: Pratul Bhatt
 spec:
   profile:
+    I am AWS Certified-Solutions Architect Associate, Microsoft Certified-Azure Administrator Associate & HashiCorp Certified-Terraform Associate 
+    and I have hands-on experience with Terraform, Ansible, Git & GitHub, Docker, Kubernetes with a deep understanding of linux systems. 
+    I am looking for ways to grow in my career.I am really passionate about the work I do and I am always looking for new responsibilities to add on
+    and learn new things constantly.
     I believe in leading by motivating people through strong people management and implementing an organized strategy 
     that delivers powerful results. Good communication skills, Problem solving skills, Fast adaptability. 
     Generating new and unique ideas, Multi-tasking, Highly motivated result-oriented, Natural leader, 
     Diligent worker, Good interpersonal skills.
 
-  location: 218-E, Pocket-1, Phase-1, Mayur Vihar, Delhi-110091
+  location: Mayur Vihar, New Delhi, Delhi
   Contact:
     phone_number: 9999664055
     email: pratulbhatt18@gmail.com
@@ -19,21 +23,27 @@ spec:
     professional_skills:
       skill: Active Directory
       skill: Azure
+      skill: AWS
       skill: Azure Active Directory
       skill: ARM template
       skill: Ansible
+      skill: Azure Automation
       skill: Bash Scripting
       skill: Docker
+      skill: Elastic Beanstalk
       skill: Terraform
       skill: Powershell
+      skill: RDS
       skill: Git & GitHub
       skill: Linux
       skill: Jenkins
+      skill: S3
       skill: Exchange Administrator Center
-      skill: Microsoft 365 admin center
+      skill: Lambda
       skill: Kubernetes
-      skill: Azure Automation
       skill: Yaml
+      
+      
 
     soft_skills:
       - name: Adaptability
@@ -48,6 +58,22 @@ spec:
       name: Work Experience
       items:
         -
+          title: Senior Consultant- Azure Monitoring and Automation
+          company: LTIMindtree Ltd
+          location: Hyderabad, Telangana
+          from:
+            date: 16th
+            month: may
+            year: 2023
+          description:
+            - Configuration and troubleshooting Azure Monitoring Agent in Applications, Virtual Machines and Storage accounts to communicate with Azure Monitor.
+            - Automating cloud infrastructure using ARM Template. Setting up users automation account.
+            - Creation and administration of Route tables to manage traffic within Azure environment.
+            - Implemented a monitoring system that tracked the health of 32 Azure resources, leading to 71% decrease in downtime.
+            - Creating and managing Network Security Groups for Virtual machines and Virtual Networks for security purposes.
+            - Perform regular audits of cloud infrastructure for 100% compliance with internal policies.
+            
+        -
           title: Server Administrator
           company: Wipro Limited (Contract on IDC Technologies Solutions India Pvt. Ltd)
           location: Greater Noida, Delhi
@@ -55,17 +81,17 @@ spec:
             date: 28th
             month: June
             year: 2021
+          To:
+            date: 12th
+            month: May
+            year: 2023
           description:
-            - Troubleshooting OU related issues, OU movement, DL modification, implementing security group.
-            - Reviewing workload, Managing internal groups for user’s issues.   
-            - Troubleshooting and resolution for all user’s queries related to email NDR. 
-            - Providing shared folder access, FTP request for large file transfer to client. 
-            - User ADID migration from on-prem to cloud, Enabling license, ID rollback from cloud to on-prem.
-            - Enforcing system compliance, enable/disable OWA,MAPI access as per compliance team reconcile reports.
-            - Troubleshooting SCCM windows path error while connecting Pulse VPN. Install and update SCCM.
-            - Applying/removing AD level restrictions on user ADID, password reset. 
-            - Preparing reconcile reports as per the risk management team.
-            - Build sustainable relationships and engage customers by taking the extra mile.
+            - Creating users and assigning role from AWS management console.
+            - Responsible for systems and resource performance monitoring.
+            - Azure AD related issues, MFA repush, Dynamic DL creation, Guest user creation
+            - Managing Azure AD users, groups, and devices, and participate in migration between on-premises and Azure AD through AD connect.
+            - Managing IAM policies in AWS to define groups, assign roles and define rules for role based access to AWS resources.
+            - Email Account Migration - On-Prem exchange to exchange online.
 
     -
       name: Education
