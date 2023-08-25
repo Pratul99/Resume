@@ -96,6 +96,15 @@ spec:
     -
       name: Education
       items:
+        - title: Amity University
+          subtitle: MCA (Master of Computer Application)
+          location: Noida, Uttar Pradesh
+          from:
+            month: August
+            year: 2023
+          to:
+            present
+            
         - title: Amity School Of Communication
           subtitle: B.A. (Journalism and Mass Communication)
           location: Noida, Uttar Pradesh
