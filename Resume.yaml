@@ -66,11 +66,11 @@ spec:
             month: may
             year: 2023
           description:
-            - Configuration and troubleshooting Azure Monitoring Agent in Applications, Virtual Machines and Storage accounts to communicate with Azure Monitor.
-            - Automating cloud infrastructure using ARM Template. Setting up users automation account.
-            - Creation and administration of Route tables to manage traffic within Azure environment.
+            - Designing and implementing Azure Monitor dashboards to visualize key metrics and performance trends, providing stakeholders with real-time visibility into system health.
+            - Implement Azure Automation to schedule and automate routine monitoring tasks, ensuring consistent oversight and reducing manual effort.
+            - Configure metric and log data in Azure Monitor, enabling data-driven decisionmaking for scaling resources, optimizing performance, and enhancing security.
             - Implemented a monitoring system that tracked the health of 32 Azure resources, leading to 71% decrease in downtime.
-            - Creating and managing Network Security Groups for Virtual machines and Virtual Networks for security purposes.
+            - To collaborate with cross-functional teams to define monitoring requirements, implement best practices, and respond effectively to incidents based on monitoring data.
             - Perform regular audits of cloud infrastructure for 100% compliance with internal policies.
             
         -
